@@ -2,880 +2,1080 @@
 	"id": 0,
 	"languages": "粤语",
 	"name": "Ado - Tot Musica",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado%20-%20Tot%20Musica.mp3"
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado - Tot Musica.mp3"
 }, {
 	"id": 1,
 	"languages": "日语",
 	"name": "Ado - ウタカタララバイ",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado%20-%20%E3%82%A6%E3%82%BF%E3%82%AB%E3%82%BF%E3%83%A9%E3%83%A9%E3%83%90%E3%82%A4.mp3"
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado - ウタカタララバイ.mp3"
 }, {
 	"id": 2,
 	"languages": "日语",
 	"name": "Ado - ビンクスの酒",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado%20-%20%E3%83%93%E3%83%B3%E3%82%AF%E3%82%B9%E3%81%AE%E9%85%92.mp3"
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado - ビンクスの酒.mp3"
 }, {
 	"id": 3,
 	"languages": "日语",
-	"name": "Ado - 世界のつづき (1)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado%20-%20%E4%B8%96%E7%95%8C%E3%81%AE%E3%81%A4%E3%81%A5%E3%81%8D%20%281%29.mp3"
+	"name": "Ado - 世界のつづき",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado - 世界のつづき.mp3"
 }, {
 	"id": 4,
 	"languages": "日语",
-	"name": "Ado - 世界のつづき",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado%20-%20%E4%B8%96%E7%95%8C%E3%81%AE%E3%81%A4%E3%81%A5%E3%81%8D.mp3"
+	"name": "Ado - 新時代 (ウタ from ONE PIECE FILM RED)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado - 新時代 (ウタ from ONE PIECE FILM RED).mp3"
 }, {
 	"id": 5,
 	"languages": "日语",
-	"name": "Ado - 新時代 (ウタ from ONE PIECE FILM RED)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado%20-%20%E6%96%B0%E6%99%82%E4%BB%A3%20%28%E3%82%A6%E3%82%BF%20from%20ONE%20PIECE%20FILM%20RED%29.mp3"
+	"name": "Ado - 私は最強 (ウタ from ONE PIECE FILM RED)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado - 私は最強 (ウタ from ONE PIECE FILM RED).mp3"
 }, {
 	"id": 6,
 	"languages": "日语",
-	"name": "Ado - 私は最強 (ウタ from ONE PIECE FILM RED)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado%20-%20%E7%A7%81%E3%81%AF%E6%9C%80%E5%BC%B7%20%28%E3%82%A6%E3%82%BF%20from%20ONE%20PIECE%20FILM%20RED%29.mp3"
+	"name": "Ado - 逆光 (ウタ from ONE PIECE FILM RED)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado - 逆光 (ウタ from ONE PIECE FILM RED).mp3"
 }, {
 	"id": 7,
 	"languages": "日语",
-	"name": "Ado - 逆光 (ウタ from ONE PIECE FILM RED)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado%20-%20%E9%80%86%E5%85%89%20%28%E3%82%A6%E3%82%BF%20from%20ONE%20PIECE%20FILM%20RED%29.mp3"
+	"name": "Ado - 風のゆくえ",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado - 風のゆくえ.mp3"
 }, {
 	"id": 8,
-	"languages": "日语",
-	"name": "Ado - 風のゆくえ",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Ado%20-%20%E9%A2%A8%E3%81%AE%E3%82%86%E3%81%8F%E3%81%88.mp3"
+	"languages": "粤语",
+	"name": "Beyond - 不再犹豫",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyond - 不再犹豫.mp3"
 }, {
 	"id": 9,
 	"languages": "粤语",
-	"name": "Beyond - 不再犹豫",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyond%20-%20%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB.mp3"
+	"name": "Beyond - 冷雨夜(Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyond - 冷雨夜(Live).mp3"
 }, {
 	"id": 10,
 	"languages": "粤语",
-	"name": "Beyond - 冷雨夜(Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyond%20-%20%E5%86%B7%E9%9B%A8%E5%A4%9C%28Live%29.mp3"
+	"name": "Beyond - 喜欢你",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyond - 喜欢你.mp3"
 }, {
 	"id": 11,
 	"languages": "粤语",
-	"name": "Beyond - 喜欢你",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyond%20-%20%E5%96%9C%E6%AC%A2%E4%BD%A0.mp3"
+	"name": "Beyond - 情人",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyond - 情人.mp3"
 }, {
 	"id": 12,
 	"languages": "粤语",
-	"name": "Beyond - 情人",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyond%20-%20%E6%83%85%E4%BA%BA.mp3"
+	"name": "Beyond - 海阔天空",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyond - 海阔天空.mp3"
 }, {
 	"id": 13,
 	"languages": "粤语",
-	"name": "Beyond - 海阔天空",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyond%20-%20%E6%B5%B7%E9%98%94%E5%A4%A9%E7%A9%BA.mp3"
+	"name": "Beyond - 灰色轨迹",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyond - 灰色轨迹.mp3"
 }, {
 	"id": 14,
 	"languages": "粤语",
-	"name": "Beyond - 灰色轨迹",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyond%20-%20%E7%81%B0%E8%89%B2%E8%BD%A8%E8%BF%B9.mp3"
+	"name": "Beyond - 真的爱你",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyond - 真的爱你.mp3"
 }, {
 	"id": 15,
 	"languages": "粤语",
-	"name": "Beyond - 真的爱你",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyond%20-%20%E7%9C%9F%E7%9A%84%E7%88%B1%E4%BD%A0.mp3"
+	"name": "Beyond_-_光辉岁月",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyond_-_光辉岁月.mp3"
 }, {
 	"id": 16,
 	"languages": "粤语",
-	"name": "Beyond_-_光辉岁月",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyond_-_%E5%85%89%E8%BE%89%E5%B2%81%E6%9C%88.mp3"
+	"name": "E-kids - 开始恋爱",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/E-kids - 开始恋爱.mp3"
 }, {
 	"id": 17,
-	"languages": "粤语",
-	"name": "E-kids - 开始恋爱",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/E-kids%20-%20%E5%BC%80%E5%A7%8B%E6%81%8B%E7%88%B1.mp3"
+	"languages": "日语",
+	"name": "Kiroro - 未来へ",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Kiroro - 未来へ.mp3"
 }, {
 	"id": 18,
 	"languages": "日语",
-	"name": "Kiroro - 未来へ",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Kiroro%20-%20%E6%9C%AA%E6%9D%A5%E3%81%B8.mp3"
+	"name": "Kiroro - 長い間",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Kiroro - 長い間.mp3"
 }, {
 	"id": 19,
 	"languages": "日语",
-	"name": "Kiroro - 長い間",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Kiroro%20-%20%E9%95%B7%E3%81%84%E9%96%93.mp3"
+	"name": "kr黑猫 - 男の勲章 （我是大哥大主题曲）（翻自 RIKI）",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/kr黑猫 - 男の勲章 （我是大哥大主题曲）（翻自 RIKI）.mp3"
 }, {
 	"id": 20,
 	"languages": "日语",
-	"name": "kr黑猫 - 男の勲章 （我是大哥大主题曲）（翻自 RIKI）",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/kr%E9%BB%91%E7%8C%AB%20-%20%E7%94%B7%E3%81%AE%E5%8B%B2%E7%AB%A0%20%EF%BC%88%E6%88%91%E6%98%AF%E5%A4%A7%E5%93%A5%E5%A4%A7%E4%B8%BB%E9%A2%98%E6%9B%B2%EF%BC%89%EF%BC%88%E7%BF%BB%E8%87%AA%20RIKI%EF%BC%89.mp3"
+	"name": "Kyle Xian - 新時代（ONE PIECE 航海王：红发歌姬 主题曲の",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Kyle Xian - 新時代（ONE PIECE 航海王：红发歌姬 主题曲の.mp3"
 }, {
 	"id": 21,
 	"languages": "日语",
-	"name": "Kyle Xian - 新時代（ONE PIECE 航海王：红发歌姬 主题曲の",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Kyle%20Xian%20-%20%E6%96%B0%E6%99%82%E4%BB%A3%EF%BC%88ONE%20PIECE%20%E8%88%AA%E6%B5%B7%E7%8E%8B%EF%BC%9A%E7%BA%A2%E5%8F%91%E6%AD%8C%E5%A7%AC%20%E4%B8%BB%E9%A2%98%E6%9B%B2%E3%81%AE.mp3"
+	"name": "MISIA - 銀の龍の背に乗って(Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/MISIA - 銀の龍の背に乗って(Live).mp3"
 }, {
 	"id": 22,
-	"languages": "日语",
-	"name": "MISIA - 銀の龍の背に乗って(Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/MISIA%20-%20%E9%8A%80%E3%81%AE%E9%BE%8D%E3%81%AE%E8%83%8C%E3%81%AB%E4%B9%97%E3%81%A3%E3%81%A6%28Live%29.mp3"
+	"languages": "粤语",
+	"name": "Mr. - 遇到了",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Mr. - 遇到了.mp3"
 }, {
 	"id": 23,
 	"languages": "粤语",
-	"name": "Mr. - 遇到了",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Mr.%20-%20%E9%81%87%E5%88%B0%E4%BA%86.mp3"
+	"name": "伦永亮,李国祥 - 总有你鼓励",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/伦永亮,李国祥 - 总有你鼓励.mp3"
 }, {
 	"id": 24,
 	"languages": "粤语",
-	"name": "伦永亮,李国祥 - 总有你鼓励",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E4%BC%A6%E6%B0%B8%E4%BA%AE%2C%E6%9D%8E%E5%9B%BD%E7%A5%A5%20-%20%E6%80%BB%E6%9C%89%E4%BD%A0%E9%BC%93%E5%8A%B1.mp3"
+	"name": "余文乐 - 下一站天后(Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/余文乐 - 下一站天后(Live).mp3"
 }, {
 	"id": 25,
 	"languages": "粤语",
-	"name": "余文乐 - 下一站天后(Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E4%BD%99%E6%96%87%E4%B9%90%20-%20%E4%B8%8B%E4%B8%80%E7%AB%99%E5%A4%A9%E5%90%8E%28Live%29.mp3"
+	"name": "关淑怡_-_难得有情人",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/关淑怡_-_难得有情人.mp3"
 }, {
 	"id": 26,
 	"languages": "粤语",
-	"name": "关淑怡_-_难得有情人",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%85%B3%E6%B7%91%E6%80%A1_-_%E9%9A%BE%E5%BE%97%E6%9C%89%E6%83%85%E4%BA%BA.mp3"
+	"name": "刘小慧_-_初恋情人",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/刘小慧_-_初恋情人.mp3"
 }, {
 	"id": 27,
 	"languages": "粤语",
-	"name": "刘小慧_-_初恋情人",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%88%98%E5%B0%8F%E6%85%A7_-_%E5%88%9D%E6%81%8B%E6%83%85%E4%BA%BA.mp3"
+	"name": "刘德华 - 17岁 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/刘德华 - 17岁 (Live).mp3"
 }, {
 	"id": 28,
 	"languages": "粤语",
-	"name": "刘德华 - 17岁 (Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%88%98%E5%BE%B7%E5%8D%8E%20-%2017%E5%B2%81%20%28Live%29.mp3"
+	"name": "刘德华 - 暗里着迷 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/刘德华 - 暗里着迷 (Live).mp3"
 }, {
 	"id": 29,
 	"languages": "粤语",
-	"name": "刘德华 - 暗里着迷 (Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%88%98%E5%BE%B7%E5%8D%8E%20-%20%E6%9A%97%E9%87%8C%E7%9D%80%E8%BF%B7%20%28Live%29.mp3"
+	"name": "刘德华_-_一起走过的日子",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/刘德华_-_一起走过的日子.mp3"
 }, {
 	"id": 30,
 	"languages": "粤语",
-	"name": "刘德华_-_一起走过的日子",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%88%98%E5%BE%B7%E5%8D%8E_-_%E4%B8%80%E8%B5%B7%E8%B5%B0%E8%BF%87%E7%9A%84%E6%97%A5%E5%AD%90.mp3"
+	"name": "刘惜君 - 让一切随风 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/刘惜君 - 让一切随风 (Live).mp3"
 }, {
 	"id": 31,
-	"languages": "粤语",
-	"name": "刘惜君 - 让一切随风 (Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%88%98%E6%83%9C%E5%90%9B%20-%20%E8%AE%A9%E4%B8%80%E5%88%87%E9%9A%8F%E9%A3%8E%20%28Live%29.mp3"
-}, {
-	"id": 32,
 	"languages": "日语",
 	"name": "加山雄三,谷村新司 - サライ~若大将50年!ver.~",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%8A%A0%E5%B1%B1%E9%9B%84%E4%B8%89%2C%E8%B0%B7%E6%9D%91%E6%96%B0%E5%8F%B8%20-%20%E3%82%B5%E3%83%A9%E3%82%A4%7E%E8%8B%A5%E5%A4%A7%E5%B0%8650%E5%B9%B4%21ver.%7E.mp3"
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/加山雄三,谷村新司 - サライ~若大将50年!ver.~.mp3"
+}, {
+	"id": 32,
+	"languages": "粤语",
+	"name": "卢巧音 - 好心分手",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/卢巧音 - 好心分手.mp3"
 }, {
 	"id": 33,
 	"languages": "粤语",
-	"name": "卢巧音 - 好心分手",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%8D%A2%E5%B7%A7%E9%9F%B3%20-%20%E5%A5%BD%E5%BF%83%E5%88%86%E6%89%8B.mp3"
+	"name": "古巨基 - 必杀技",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/古巨基 - 必杀技.mp3"
 }, {
 	"id": 34,
 	"languages": "粤语",
-	"name": "古巨基 - 必杀技",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%8F%A4%E5%B7%A8%E5%9F%BA%20-%20%E5%BF%85%E6%9D%80%E6%8A%80.mp3"
+	"name": "古巨基 - 爱与诚",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/古巨基 - 爱与诚.mp3"
 }, {
 	"id": 35,
 	"languages": "粤语",
-	"name": "古巨基 - 爱与诚",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%8F%A4%E5%B7%A8%E5%9F%BA%20-%20%E7%88%B1%E4%B8%8E%E8%AF%9A.mp3"
+	"name": "古巨基 - 爱得太迟",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/古巨基 - 爱得太迟.mp3"
 }, {
 	"id": 36,
 	"languages": "粤语",
-	"name": "古巨基 - 爱得太迟",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%8F%A4%E5%B7%A8%E5%9F%BA%20-%20%E7%88%B1%E5%BE%97%E5%A4%AA%E8%BF%9F.mp3"
+	"name": "古巨基 - 重复犯错",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/古巨基 - 重复犯错.mp3"
 }, {
 	"id": 37,
 	"languages": "粤语",
-	"name": "古巨基 - 重复犯错",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%8F%A4%E5%B7%A8%E5%9F%BA%20-%20%E9%87%8D%E5%A4%8D%E7%8A%AF%E9%94%99.mp3"
+	"name": "古巨基,周慧敏 - 爱得太迟",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/古巨基,周慧敏 - 爱得太迟.mp3"
 }, {
 	"id": 38,
 	"languages": "粤语",
-	"name": "古巨基,周慧敏 - 爱得太迟",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%8F%A4%E5%B7%A8%E5%9F%BA%2C%E5%91%A8%E6%85%A7%E6%95%8F%20-%20%E7%88%B1%E5%BE%97%E5%A4%AA%E8%BF%9F.mp3"
+	"name": "叶蒨文_-_情人知己",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/叶蒨文_-_情人知己.mp3"
 }, {
 	"id": 39,
 	"languages": "粤语",
-	"name": "叶蒨文_-_情人知己",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%8F%B6%E8%92%A8%E6%96%87_-_%E6%83%85%E4%BA%BA%E7%9F%A5%E5%B7%B1.mp3"
+	"name": "吴雨霏 - 吴哥窟",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/吴雨霏 - 吴哥窟.mp3"
 }, {
 	"id": 40,
 	"languages": "粤语",
-	"name": "吴雨霏 - 吴哥窟",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%90%B4%E9%9B%A8%E9%9C%8F%20-%20%E5%90%B4%E5%93%A5%E7%AA%9F.mp3"
+	"name": "周华健 - 难念的经",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/周华健 - 难念的经.mp3"
 }, {
 	"id": 41,
 	"languages": "粤语",
-	"name": "周华健 - 难念的经",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%91%A8%E5%8D%8E%E5%81%A5%20-%20%E9%9A%BE%E5%BF%B5%E7%9A%84%E7%BB%8F.mp3"
+	"name": "周柏豪 - 够钟",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/周柏豪 - 够钟.mp3"
 }, {
 	"id": 42,
 	"languages": "粤语",
-	"name": "周柏豪 - 够钟",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%91%A8%E6%9F%8F%E8%B1%AA%20-%20%E5%A4%9F%E9%92%9F.mp3"
+	"name": "周深 - 千千阙歌 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/周深 - 千千阙歌 (Live).mp3"
 }, {
 	"id": 43,
 	"languages": "粤语",
-	"name": "周深 - 千千阙歌 (Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%91%A8%E6%B7%B1%20-%20%E5%8D%83%E5%8D%83%E9%98%99%E6%AD%8C%20%28Live%29.mp3"
+	"name": "周笔畅 - 花樽与花",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/周笔畅 - 花樽与花.mp3"
 }, {
 	"id": 44,
 	"languages": "粤语",
-	"name": "周笔畅 - 花樽与花",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%91%A8%E7%AC%94%E7%95%85%20-%20%E8%8A%B1%E6%A8%BD%E4%B8%8E%E8%8A%B1.mp3"
+	"name": "孙耀威 - 爱的故事(上)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/孙耀威 - 爱的故事(上).mp3"
 }, {
 	"id": 45,
 	"languages": "粤语",
-	"name": "孙耀威 - 爱的故事(上)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%AD%99%E8%80%80%E5%A8%81%20-%20%E7%88%B1%E7%9A%84%E6%95%85%E4%BA%8B%28%E4%B8%8A%29.mp3"
+	"name": "容祖儿,彭羚 - 心淡 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/容祖儿,彭羚 - 心淡 (Live).mp3"
 }, {
 	"id": 46,
 	"languages": "粤语",
-	"name": "容祖儿,彭羚 - 心淡 (Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%AE%B9%E7%A5%96%E5%84%BF%2C%E5%BD%AD%E7%BE%9A%20-%20%E5%BF%83%E6%B7%A1%20%28Live%29.mp3"
+	"name": "容祖儿,李克勤 - 相爱很难 (Live In Hong Kong ／ 2015)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/容祖儿,李克勤 - 相爱很难 (Live In Hong Kong ／ 2015).mp3"
 }, {
 	"id": 47,
-	"languages": "粤语",
-	"name": "容祖儿,李克勤 - 相爱很难 (Live In Hong Kong ／ 2015)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%AE%B9%E7%A5%96%E5%84%BF%2C%E6%9D%8E%E5%85%8B%E5%8B%A4%20-%20%E7%9B%B8%E7%88%B1%E5%BE%88%E9%9A%BE%20%28Live%20In%20Hong%20Kong%20%EF%BC%8F%202015%29.mp3"
+	"languages": "日语",
+	"name": "小田和正 - ラブ・ストーリーは突然に",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/小田和正 - ラブ・ストーリーは突然に.mp3"
 }, {
 	"id": 48,
 	"languages": "日语",
-	"name": "小田和正 - ラブ・ストーリーは突然に",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%B0%8F%E7%94%B0%E5%92%8C%E6%AD%A3%20-%20%E3%83%A9%E3%83%96%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%AF%E7%AA%81%E7%84%B6%E3%81%AB.mp3"
+	"name": "山本耀司 - なんでこうなんだろう",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/山本耀司 - なんでこうなんだろう.mp3"
 }, {
 	"id": 49,
-	"languages": "日语",
-	"name": "山本耀司 - なんでこうなんだろう",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%B1%B1%E6%9C%AC%E8%80%80%E5%8F%B8%20-%20%E3%81%AA%E3%82%93%E3%81%A7%E3%81%93%E3%81%86%E3%81%AA%E3%82%93%E3%81%A0%E3%82%8D%E3%81%86.mp3"
+	"languages": "粤语",
+	"name": "张国荣 - Monica(Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - Monica(Live).mp3"
 }, {
 	"id": 50,
 	"languages": "粤语",
-	"name": "张国荣 - Monica(Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20Monica%28Live%29.mp3"
+	"name": "张国荣 - 倩女幽魂",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 倩女幽魂.mp3"
 }, {
 	"id": 51,
 	"languages": "粤语",
-	"name": "张国荣 - 倩女幽魂",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E5%80%A9%E5%A5%B3%E5%B9%BD%E9%AD%82.mp3"
+	"name": "张国荣 - 别话",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 别话.mp3"
 }, {
 	"id": 52,
 	"languages": "粤语",
-	"name": "张国荣 - 别话",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E5%88%AB%E8%AF%9D.mp3"
+	"name": "张国荣 - 千千阙歌(Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 千千阙歌(Live).mp3"
 }, {
 	"id": 53,
 	"languages": "粤语",
-	"name": "张国荣 - 千千阙歌(Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E5%8D%83%E5%8D%83%E9%98%99%E6%AD%8C%28Live%29.mp3"
+	"name": "张国荣 - 左右手(Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 左右手(Live).mp3"
 }, {
 	"id": 54,
 	"languages": "粤语",
-	"name": "张国荣 - 左右手(Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E5%B7%A6%E5%8F%B3%E6%89%8B%28Live%29.mp3"
+	"name": "张国荣 - 左右手",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 左右手.mp3"
 }, {
 	"id": 55,
 	"languages": "粤语",
-	"name": "张国荣 - 左右手",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E5%B7%A6%E5%8F%B3%E6%89%8B.mp3"
+	"name": "张国荣 - 当年情(Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 当年情(Live).mp3"
 }, {
 	"id": 56,
 	"languages": "粤语",
-	"name": "张国荣 - 当年情(Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E5%BD%93%E5%B9%B4%E6%83%85%28Live%29.mp3"
+	"name": "张国荣 - 当爱已成往事",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 当爱已成往事.mp3"
 }, {
 	"id": 57,
 	"languages": "粤语",
-	"name": "张国荣 - 当爱已成往事",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E5%BD%93%E7%88%B1%E5%B7%B2%E6%88%90%E5%BE%80%E4%BA%8B.mp3"
+	"name": "张国荣 - 怪你过份美丽",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 怪你过份美丽.mp3"
 }, {
 	"id": 58,
 	"languages": "粤语",
-	"name": "张国荣 - 怪你过份美丽",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E6%80%AA%E4%BD%A0%E8%BF%87%E4%BB%BD%E7%BE%8E%E4%B8%BD.mp3"
+	"name": "张国荣 - 愿你决定",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 愿你决定.mp3"
 }, {
 	"id": 59,
 	"languages": "粤语",
-	"name": "张国荣 - 愿你决定",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E6%84%BF%E4%BD%A0%E5%86%B3%E5%AE%9A.mp3"
+	"name": "张国荣 - 春夏秋冬",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 春夏秋冬.mp3"
 }, {
 	"id": 60,
 	"languages": "粤语",
-	"name": "张国荣 - 春夏秋冬",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E6%98%A5%E5%A4%8F%E7%A7%8B%E5%86%AC.mp3"
+	"name": "张国荣 - 月亮代表我的心",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 月亮代表我的心.mp3"
 }, {
 	"id": 61,
 	"languages": "粤语",
-	"name": "张国荣 - 月亮代表我的心",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E6%9C%88%E4%BA%AE%E4%BB%A3%E8%A1%A8%E6%88%91%E7%9A%84%E5%BF%83.mp3"
+	"name": "张国荣 - 沉默是金",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 沉默是金.mp3"
 }, {
 	"id": 62,
 	"languages": "粤语",
-	"name": "张国荣 - 沉默是金",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E6%B2%89%E9%BB%98%E6%98%AF%E9%87%91.mp3"
+	"name": "张国荣 - 玻璃之情",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 玻璃之情.mp3"
 }, {
 	"id": 63,
 	"languages": "粤语",
-	"name": "张国荣 - 玻璃之情",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E7%8E%BB%E7%92%83%E4%B9%8B%E6%83%85.mp3"
+	"name": "张国荣 - 至少还有你(Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 至少还有你(Live).mp3"
 }, {
 	"id": 64,
 	"languages": "粤语",
-	"name": "张国荣 - 至少还有你(Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E8%87%B3%E5%B0%91%E8%BF%98%E6%9C%89%E4%BD%A0%28Live%29.mp3"
+	"name": "张国荣 - 蝶变",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 蝶变.mp3"
 }, {
 	"id": 65,
 	"languages": "粤语",
-	"name": "张国荣 - 蝶变",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E8%9D%B6%E5%8F%98.mp3"
+	"name": "张国荣 - 路过蜻蜓",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 路过蜻蜓.mp3"
 }, {
 	"id": 66,
 	"languages": "粤语",
-	"name": "张国荣 - 路过蜻蜓",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E8%B7%AF%E8%BF%87%E8%9C%BB%E8%9C%93.mp3"
+	"name": "张国荣 - 追",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 追.mp3"
 }, {
 	"id": 67,
 	"languages": "粤语",
-	"name": "张国荣 - 追",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E8%BF%BD.mp3"
+	"name": "张国荣 - 风再起时",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 风再起时.mp3"
 }, {
 	"id": 68,
 	"languages": "粤语",
-	"name": "张国荣 - 风再起时",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E9%A3%8E%E5%86%8D%E8%B5%B7%E6%97%B6.mp3"
+	"name": "张国荣 - 风继续吹(Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张国荣 - 风继续吹(Live).mp3"
 }, {
 	"id": 69,
 	"languages": "粤语",
-	"name": "张国荣 - 风继续吹(Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20-%20%E9%A3%8E%E7%BB%A7%E7%BB%AD%E5%90%B9%28Live%29.mp3"
+	"name": "张学友 - MEDLEY ： 越吻越伤心 ／ 原来你什么都不要",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张学友 - MEDLEY ： 越吻越伤心 ／ 原来你什么都不要.mp3"
 }, {
 	"id": 70,
 	"languages": "粤语",
-	"name": "张学友 - MEDLEY ： 越吻越伤心 ／ 原来你什么都不要",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%AD%A6%E5%8F%8B%20-%20MEDLEY%20%EF%BC%9A%20%E8%B6%8A%E5%90%BB%E8%B6%8A%E4%BC%A4%E5%BF%83%20%EF%BC%8F%20%E5%8E%9F%E6%9D%A5%E4%BD%A0%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E8%A6%81.mp3"
+	"name": "张学友 - 伤追人 (live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张学友 - 伤追人 (live).mp3"
 }, {
 	"id": 71,
 	"languages": "粤语",
-	"name": "张学友 - 伤追人 (live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%AD%A6%E5%8F%8B%20-%20%E4%BC%A4%E8%BF%BD%E4%BA%BA%20%28live%29.mp3"
+	"name": "张学友 - 分手总要在雨天",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张学友 - 分手总要在雨天.mp3"
 }, {
 	"id": 72,
 	"languages": "粤语",
-	"name": "张学友 - 分手总要在雨天",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%AD%A6%E5%8F%8B%20-%20%E5%88%86%E6%89%8B%E6%80%BB%E8%A6%81%E5%9C%A8%E9%9B%A8%E5%A4%A9.mp3"
+	"name": "张学友 - 李香兰",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张学友 - 李香兰.mp3"
 }, {
 	"id": 73,
 	"languages": "粤语",
-	"name": "张学友 - 李香兰",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%AD%A6%E5%8F%8B%20-%20%E6%9D%8E%E9%A6%99%E5%85%B0.mp3"
+	"name": "张学友 - 离开以后",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张学友 - 离开以后.mp3"
 }, {
 	"id": 74,
 	"languages": "粤语",
-	"name": "张学友 - 离开以后",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%AD%A6%E5%8F%8B%20-%20%E7%A6%BB%E5%BC%80%E4%BB%A5%E5%90%8E.mp3"
+	"name": "张学友 - 等你等到我心痛",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张学友 - 等你等到我心痛.mp3"
 }, {
 	"id": 75,
 	"languages": "粤语",
-	"name": "张学友 - 等你等到我心痛",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%AD%A6%E5%8F%8B%20-%20%E7%AD%89%E4%BD%A0%E7%AD%89%E5%88%B0%E6%88%91%E5%BF%83%E7%97%9B.mp3"
+	"name": "张学友 - 遥远的她",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张学友 - 遥远的她.mp3"
 }, {
 	"id": 76,
 	"languages": "粤语",
-	"name": "张学友 - 遥远的她",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E5%AD%A6%E5%8F%8B%20-%20%E9%81%A5%E8%BF%9C%E7%9A%84%E5%A5%B9.mp3"
+	"name": "张敬轩 - 不吐不快",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张敬轩 - 不吐不快.mp3"
 }, {
 	"id": 77,
 	"languages": "粤语",
-	"name": "张敬轩 - 不吐不快",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E6%95%AC%E8%BD%A9%20-%20%E4%B8%8D%E5%90%90%E4%B8%8D%E5%BF%AB.mp3"
+	"name": "张敬轩 - 假如让你吻下去(Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张敬轩 - 假如让你吻下去(Live).mp3"
 }, {
 	"id": 78,
 	"languages": "粤语",
-	"name": "张敬轩 - 假如让你吻下去(Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E6%95%AC%E8%BD%A9%20-%20%E5%81%87%E5%A6%82%E8%AE%A9%E4%BD%A0%E5%90%BB%E4%B8%8B%E5%8E%BB%28Live%29.mp3"
+	"name": "张敬轩 - 少女的祈祷",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张敬轩 - 少女的祈祷.mp3"
 }, {
 	"id": 79,
 	"languages": "粤语",
-	"name": "张敬轩 - 少女的祈祷",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E6%95%AC%E8%BD%A9%20-%20%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A5%88%E7%A5%B7.mp3"
+	"name": "张敬轩 - 尘埃落定",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张敬轩 - 尘埃落定.mp3"
 }, {
 	"id": 80,
 	"languages": "粤语",
-	"name": "张敬轩 - 尘埃落定",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E6%95%AC%E8%BD%A9%20-%20%E5%B0%98%E5%9F%83%E8%90%BD%E5%AE%9A.mp3"
+	"name": "张敬轩 - 披星戴月",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张敬轩 - 披星戴月.mp3"
 }, {
 	"id": 81,
 	"languages": "粤语",
-	"name": "张敬轩 - 披星戴月",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E6%95%AC%E8%BD%A9%20-%20%E6%8A%AB%E6%98%9F%E6%88%B4%E6%9C%88.mp3"
+	"name": "张敬轩 - 春秋",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张敬轩 - 春秋.mp3"
 }, {
 	"id": 82,
 	"languages": "粤语",
-	"name": "张敬轩 - 春秋",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E6%95%AC%E8%BD%A9%20-%20%E6%98%A5%E7%A7%8B.mp3"
+	"name": "张敬轩 - 樱花树下",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张敬轩 - 樱花树下.mp3"
 }, {
 	"id": 83,
 	"languages": "粤语",
-	"name": "张敬轩 - 樱花树下",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E6%95%AC%E8%BD%A9%20-%20%E6%A8%B1%E8%8A%B1%E6%A0%91%E4%B8%8B.mp3"
+	"name": "张敬轩 - 追风筝的孩子",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张敬轩 - 追风筝的孩子.mp3"
 }, {
 	"id": 84,
 	"languages": "粤语",
-	"name": "张敬轩 - 追风筝的孩子",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E6%95%AC%E8%BD%A9%20-%20%E8%BF%BD%E9%A3%8E%E7%AD%9D%E7%9A%84%E5%AD%A9%E5%AD%90.mp3"
+	"name": "张敬轩,孙耀威 - 爱的故事上集(Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张敬轩,孙耀威 - 爱的故事上集(Live).mp3"
 }, {
 	"id": 85,
 	"languages": "粤语",
-	"name": "张敬轩,孙耀威 - 爱的故事上集(Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E6%95%AC%E8%BD%A9%2C%E5%AD%99%E8%80%80%E5%A8%81%20-%20%E7%88%B1%E7%9A%84%E6%95%85%E4%BA%8B%E4%B8%8A%E9%9B%86%28Live%29.mp3"
+	"name": "方力申 - 可爱不可爱",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/方力申 - 可爱不可爱.mp3"
 }, {
 	"id": 86,
-	"languages": "粤语",
-	"name": "张敬轩,孙耀威_-_爱的故事上集(Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E5%BC%A0%E6%95%AC%E8%BD%A9%2C%E5%AD%99%E8%80%80%E5%A8%81_-_%E7%88%B1%E7%9A%84%E6%95%85%E4%BA%8B%E4%B8%8A%E9%9B%86%28Live%29.mp3"
+	"languages": "日语",
+	"name": "木村弓 - いつも何度でも",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/木村弓 - いつも何度でも.mp3"
 }, {
 	"id": 87,
 	"languages": "粤语",
-	"name": "方力申 - 可爱不可爱",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%96%B9%E5%8A%9B%E7%94%B3%20-%20%E5%8F%AF%E7%88%B1%E4%B8%8D%E5%8F%AF%E7%88%B1.mp3"
+	"name": "李克勤 - K歌之王",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/李克勤 - K歌之王.mp3"
 }, {
 	"id": 88,
-	"languages": "日语",
-	"name": "木村弓 - いつも何度でも",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9C%A8%E6%9D%91%E5%BC%93%20-%20%E3%81%84%E3%81%A4%E3%82%82%E4%BD%95%E5%BA%A6%E3%81%A7%E3%82%82.mp3"
+	"languages": "粤语",
+	"name": "李克勤 - 合久必婚",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/李克勤 - 合久必婚.mp3"
 }, {
 	"id": 89,
 	"languages": "粤语",
-	"name": "李克勤 - K歌之王",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%8E%E5%85%8B%E5%8B%A4%20-%20K%E6%AD%8C%E4%B9%8B%E7%8E%8B.mp3"
+	"name": "李克勤 - 天梯 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/李克勤 - 天梯 (Live).mp3"
 }, {
 	"id": 90,
 	"languages": "粤语",
-	"name": "李克勤 - 合久必婚",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%8E%E5%85%8B%E5%8B%A4%20-%20%E5%90%88%E4%B9%85%E5%BF%85%E5%A9%9A.mp3"
+	"name": "李克勤 - 如果你知我苦衷",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/李克勤 - 如果你知我苦衷.mp3"
 }, {
 	"id": 91,
 	"languages": "粤语",
-	"name": "李克勤 - 天梯 (Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%8E%E5%85%8B%E5%8B%A4%20-%20%E5%A4%A9%E6%A2%AF%20%28Live%29.mp3"
+	"name": "李克勤 - 左右手",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/李克勤 - 左右手.mp3"
 }, {
 	"id": 92,
 	"languages": "粤语",
-	"name": "李克勤 - 如果你知我苦衷",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%8E%E5%85%8B%E5%8B%A4%20-%20%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%9F%A5%E6%88%91%E8%8B%A6%E8%A1%B7.mp3"
+	"name": "李克勤 - 月半小夜曲",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/李克勤 - 月半小夜曲.mp3"
 }, {
 	"id": 93,
 	"languages": "粤语",
-	"name": "李克勤 - 左右手",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%8E%E5%85%8B%E5%8B%A4%20-%20%E5%B7%A6%E5%8F%B3%E6%89%8B.mp3"
+	"name": "李克勤 - 爱不释手",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/李克勤 - 爱不释手.mp3"
 }, {
 	"id": 94,
 	"languages": "粤语",
-	"name": "李克勤 - 月半小夜曲",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%8E%E5%85%8B%E5%8B%A4%20-%20%E6%9C%88%E5%8D%8A%E5%B0%8F%E5%A4%9C%E6%9B%B2.mp3"
+	"name": "李克勤 - 给自己的情书",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/李克勤 - 给自己的情书.mp3"
 }, {
 	"id": 95,
 	"languages": "粤语",
-	"name": "李克勤 - 爱不释手",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%8E%E5%85%8B%E5%8B%A4%20-%20%E7%88%B1%E4%B8%8D%E9%87%8A%E6%89%8B.mp3"
+	"name": "李克勤 - 花园街的流星",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/李克勤 - 花园街的流星.mp3"
 }, {
 	"id": 96,
 	"languages": "粤语",
-	"name": "李克勤 - 给自己的情书",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%8E%E5%85%8B%E5%8B%A4%20-%20%E7%BB%99%E8%87%AA%E5%B7%B1%E7%9A%84%E6%83%85%E4%B9%A6.mp3"
+	"name": "李克勤 - 遥远的她",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/李克勤 - 遥远的她.mp3"
 }, {
 	"id": 97,
 	"languages": "粤语",
-	"name": "李克勤 - 花园街的流星",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%8E%E5%85%8B%E5%8B%A4%20-%20%E8%8A%B1%E5%9B%AD%E8%A1%97%E7%9A%84%E6%B5%81%E6%98%9F.mp3"
+	"name": "李克勤_-_一生不变",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/李克勤_-_一生不变.mp3"
 }, {
 	"id": 98,
 	"languages": "粤语",
-	"name": "李克勤 - 遥远的她",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%8E%E5%85%8B%E5%8B%A4%20-%20%E9%81%A5%E8%BF%9C%E7%9A%84%E5%A5%B9.mp3"
+	"name": "李克勤_-_月半小夜曲",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/李克勤_-_月半小夜曲.mp3"
 }, {
 	"id": 99,
 	"languages": "粤语",
-	"name": "李克勤_-_一生不变",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%8E%E5%85%8B%E5%8B%A4_-_%E4%B8%80%E7%94%9F%E4%B8%8D%E5%8F%98.mp3"
+	"name": "杨千嬅 - 假如让我说下去",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/杨千嬅 - 假如让我说下去.mp3"
 }, {
 	"id": 100,
 	"languages": "粤语",
-	"name": "李克勤_-_月半小夜曲",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%8E%E5%85%8B%E5%8B%A4_-_%E6%9C%88%E5%8D%8A%E5%B0%8F%E5%A4%9C%E6%9B%B2.mp3"
+	"name": "杨千嬅 - 再见二丁目(Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/杨千嬅 - 再见二丁目(Live).mp3"
 }, {
 	"id": 101,
 	"languages": "粤语",
-	"name": "杨千嬅 - 假如让我说下去",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%A8%E5%8D%83%E5%AC%85%20-%20%E5%81%87%E5%A6%82%E8%AE%A9%E6%88%91%E8%AF%B4%E4%B8%8B%E5%8E%BB.mp3"
+	"name": "杨千嬅 - 可惜我是水瓶座",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/杨千嬅 - 可惜我是水瓶座.mp3"
 }, {
 	"id": 102,
 	"languages": "粤语",
-	"name": "杨千嬅 - 再见二丁目(Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%A8%E5%8D%83%E5%AC%85%20-%20%E5%86%8D%E8%A7%81%E4%BA%8C%E4%B8%81%E7%9B%AE%28Live%29.mp3"
+	"name": "杨千嬅 - 小城大事",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/杨千嬅 - 小城大事.mp3"
 }, {
 	"id": 103,
 	"languages": "粤语",
-	"name": "杨千嬅 - 可惜我是水瓶座",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%A8%E5%8D%83%E5%AC%85%20-%20%E5%8F%AF%E6%83%9C%E6%88%91%E6%98%AF%E6%B0%B4%E7%93%B6%E5%BA%A7.mp3"
+	"name": "杨千嬅 - 少女的祈祷(Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/杨千嬅 - 少女的祈祷(Live).mp3"
 }, {
 	"id": 104,
 	"languages": "粤语",
-	"name": "杨千嬅 - 小城大事",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%A8%E5%8D%83%E5%AC%85%20-%20%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B.mp3"
+	"name": "林子祥 - 分分钟需要你",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林子祥 - 分分钟需要你.mp3"
 }, {
 	"id": 105,
 	"languages": "粤语",
-	"name": "杨千嬅 - 少女的祈祷(Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9D%A8%E5%8D%83%E5%AC%85%20-%20%E5%B0%91%E5%A5%B3%E7%9A%84%E7%A5%88%E7%A5%B7%28Live%29.mp3"
+	"name": "林子祥 - 敢爱敢做",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林子祥 - 敢爱敢做.mp3"
 }, {
 	"id": 106,
 	"languages": "粤语",
-	"name": "林子祥 - 分分钟需要你",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9E%97%E5%AD%90%E7%A5%A5%20-%20%E5%88%86%E5%88%86%E9%92%9F%E9%9C%80%E8%A6%81%E4%BD%A0.mp3"
+	"name": "林子祥_-_男儿当自强",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林子祥_-_男儿当自强.mp3"
 }, {
 	"id": 107,
 	"languages": "粤语",
-	"name": "林子祥 - 敢爱敢做",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9E%97%E5%AD%90%E7%A5%A5%20-%20%E6%95%A2%E7%88%B1%E6%95%A2%E5%81%9A.mp3"
+	"name": "林忆莲 - 假如让你吻下去",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林忆莲 - 假如让你吻下去.mp3"
 }, {
 	"id": 108,
 	"languages": "粤语",
-	"name": "林子祥_-_男儿当自强",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9E%97%E5%AD%90%E7%A5%A5_-_%E7%94%B7%E5%84%BF%E5%BD%93%E8%87%AA%E5%BC%BA.mp3"
+	"name": "林忆莲 - 再见悲哀",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林忆莲 - 再见悲哀.mp3"
 }, {
 	"id": 109,
 	"languages": "粤语",
-	"name": "林忆莲 - 假如让你吻下去",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9E%97%E5%BF%86%E8%8E%B2%20-%20%E5%81%87%E5%A6%82%E8%AE%A9%E4%BD%A0%E5%90%BB%E4%B8%8B%E5%8E%BB.mp3"
+	"name": "林璐伽,郑少秋 - 笑看风云",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林璐伽,郑少秋 - 笑看风云.mp3"
 }, {
 	"id": 110,
 	"languages": "粤语",
-	"name": "林忆莲 - 再见悲哀",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9E%97%E5%BF%86%E8%8E%B2%20-%20%E5%86%8D%E8%A7%81%E6%82%B2%E5%93%80.mp3"
+	"name": "树莉莉 Serrini - 油尖旺金毛玲",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/树莉莉 Serrini - 油尖旺金毛玲.mp3"
 }, {
 	"id": 111,
 	"languages": "粤语",
-	"name": "林璐伽,郑少秋 - 笑看风云",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%9E%97%E7%92%90%E4%BC%BD%2C%E9%83%91%E5%B0%91%E7%A7%8B%20-%20%E7%AC%91%E7%9C%8B%E9%A3%8E%E4%BA%91.mp3"
+	"name": "梁汉文 - 七友",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/梁汉文 - 七友.mp3"
 }, {
 	"id": 112,
 	"languages": "粤语",
-	"name": "树莉莉 Serrini - 油尖旺金毛玲",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%A0%91%E8%8E%89%E8%8E%89%20Serrini%20-%20%E6%B2%B9%E5%B0%96%E6%97%BA%E9%87%91%E6%AF%9B%E7%8E%B2.mp3"
+	"name": "玉置浩二 - Friend",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/玉置浩二 - Friend.mp3"
 }, {
 	"id": 113,
-	"languages": "粤语",
-	"name": "梁汉文 - 七友",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E6%A2%81%E6%B1%89%E6%96%87%20-%20%E4%B8%83%E5%8F%8B.mp3"
-}, {
-	"id": 114,
-	"languages": "粤语",
-	"name": "玉置浩二 - Friend",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E7%8E%89%E7%BD%AE%E6%B5%A9%E4%BA%8C%20-%20Friend.mp3"
-}, {
-	"id": 115,
 	"languages": "日语",
 	"name": "玉置浩二 - 夢のつづき",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E7%8E%89%E7%BD%AE%E6%B5%A9%E4%BA%8C%20-%20%E5%A4%A2%E3%81%AE%E3%81%A4%E3%81%A5%E3%81%8D.mp3"
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/玉置浩二 - 夢のつづき.mp3"
 }, {
-	"id": 116,
+	"id": 114,
 	"languages": "日语",
 	"name": "玉置浩二 - 行かないで",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E7%8E%89%E7%BD%AE%E6%B5%A9%E4%BA%8C%20-%20%E8%A1%8C%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A7.mp3"
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/玉置浩二 - 行かないで.mp3"
+}, {
+	"id": 115,
+	"languages": "粤语",
+	"name": "王杰_-_不浪漫罪名",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/王杰_-_不浪漫罪名.mp3"
+}, {
+	"id": 116,
+	"languages": "粤语",
+	"name": "王杰_-_谁明浪子心",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/王杰_-_谁明浪子心.mp3"
 }, {
 	"id": 117,
 	"languages": "粤语",
-	"name": "王杰_-_不浪漫罪名",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E7%8E%8B%E6%9D%B0_-_%E4%B8%8D%E6%B5%AA%E6%BC%AB%E7%BD%AA%E5%90%8D.mp3"
+	"name": "王菲 - 容易受伤的女人",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/王菲 - 容易受伤的女人.mp3"
 }, {
 	"id": 118,
 	"languages": "粤语",
-	"name": "王杰_-_谁明浪子心",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E7%8E%8B%E6%9D%B0_-_%E8%B0%81%E6%98%8E%E6%B5%AA%E5%AD%90%E5%BF%83.mp3"
+	"name": "王菲 - 执迷不悔",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/王菲 - 执迷不悔.mp3"
 }, {
 	"id": 119,
 	"languages": "粤语",
-	"name": "王菲 - 容易受伤的女人",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E7%8E%8B%E8%8F%B2%20-%20%E5%AE%B9%E6%98%93%E5%8F%97%E4%BC%A4%E7%9A%84%E5%A5%B3%E4%BA%BA.mp3"
+	"name": "王菲 - 暗涌 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/王菲 - 暗涌 (Live).mp3"
 }, {
 	"id": 120,
 	"languages": "粤语",
-	"name": "王菲 - 执迷不悔",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E7%8E%8B%E8%8F%B2%20-%20%E6%89%A7%E8%BF%B7%E4%B8%8D%E6%82%94.mp3"
+	"name": "王菲 - 约定",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/王菲 - 约定.mp3"
 }, {
 	"id": 121,
 	"languages": "粤语",
-	"name": "王菲 - 暗涌 (Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E7%8E%8B%E8%8F%B2%20-%20%E6%9A%97%E6%B6%8C%20%28Live%29.mp3"
+	"name": "王菲_-_容易受伤的女人",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/王菲_-_容易受伤的女人.mp3"
 }, {
 	"id": 122,
-	"languages": "粤语",
-	"name": "王菲 - 约定",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E7%8E%8B%E8%8F%B2%20-%20%E7%BA%A6%E5%AE%9A.mp3"
+	"languages": "日语",
+	"name": "花澤香菜 - 恋愛サーキュレーション",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/花澤香菜 - 恋愛サーキュレーション.mp3"
 }, {
 	"id": 123,
 	"languages": "粤语",
-	"name": "王菲_-_容易受伤的女人",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E7%8E%8B%E8%8F%B2_-_%E5%AE%B9%E6%98%93%E5%8F%97%E4%BC%A4%E7%9A%84%E5%A5%B3%E4%BA%BA.mp3"
+	"name": "苏永康 - 越吻越伤心",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/苏永康 - 越吻越伤心.mp3"
 }, {
 	"id": 124,
-	"languages": "日语",
-	"name": "花澤香菜 - 恋愛サーキュレーション",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E8%8A%B1%E6%BE%A4%E9%A6%99%E8%8F%9C%20-%20%E6%81%8B%E6%84%9B%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.mp3"
+	"languages": "粤语",
+	"name": "草蜢 - 失恋",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/草蜢 - 失恋.mp3"
 }, {
 	"id": 125,
 	"languages": "粤语",
-	"name": "苏永康 - 越吻越伤心",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E8%8B%8F%E6%B0%B8%E5%BA%B7%20-%20%E8%B6%8A%E5%90%BB%E8%B6%8A%E4%BC%A4%E5%BF%83.mp3"
+	"name": "莫文蔚 - 北极光",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/莫文蔚 - 北极光.mp3"
 }, {
 	"id": 126,
 	"languages": "粤语",
-	"name": "草蜢 - 失恋",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E8%8D%89%E8%9C%A2%20-%20%E5%A4%B1%E6%81%8B.mp3"
+	"name": "许冠杰 - 沧海一声笑",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/许冠杰 - 沧海一声笑.mp3"
 }, {
 	"id": 127,
 	"languages": "粤语",
-	"name": "莫文蔚 - 北极光",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E8%8E%AB%E6%96%87%E8%94%9A%20-%20%E5%8C%97%E6%9E%81%E5%85%89.mp3"
+	"name": "许秋怡,张智霖 - 现代爱情故事",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/许秋怡,张智霖 - 现代爱情故事.mp3"
 }, {
 	"id": 128,
 	"languages": "粤语",
-	"name": "许冠杰 - 沧海一声笑",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E8%AE%B8%E5%86%A0%E6%9D%B0%20-%20%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91.mp3"
+	"name": "谢安琪 - 喜帖街",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/谢安琪 - 喜帖街.mp3"
 }, {
 	"id": 129,
 	"languages": "粤语",
-	"name": "许秋怡,张智霖 - 现代爱情故事",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E8%AE%B8%E7%A7%8B%E6%80%A1%2C%E5%BC%A0%E6%99%BA%E9%9C%96%20-%20%E7%8E%B0%E4%BB%A3%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B.mp3"
+	"name": "谢安琪 - 年度之歌",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/谢安琪 - 年度之歌.mp3"
 }, {
 	"id": 130,
 	"languages": "粤语",
-	"name": "谢安琪 - 喜帖街",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E8%B0%A2%E5%AE%89%E7%90%AA%20-%20%E5%96%9C%E5%B8%96%E8%A1%97.mp3"
+	"name": "谢安琪 - 钟无艳",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/谢安琪 - 钟无艳.mp3"
 }, {
 	"id": 131,
 	"languages": "粤语",
-	"name": "谢安琪 - 年度之歌",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E8%B0%A2%E5%AE%89%E7%90%AA%20-%20%E5%B9%B4%E5%BA%A6%E4%B9%8B%E6%AD%8C.mp3"
+	"name": "谭咏麟 - 一生中最爱 (1991 Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/谭咏麟 - 一生中最爱 (1991 Live).mp3"
 }, {
 	"id": 132,
 	"languages": "粤语",
-	"name": "谢安琪 - 钟无艳",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E8%B0%A2%E5%AE%89%E7%90%AA%20-%20%E9%92%9F%E6%97%A0%E8%89%B3.mp3"
+	"name": "谭咏麟 - 朋友",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/谭咏麟 - 朋友.mp3"
 }, {
 	"id": 133,
 	"languages": "粤语",
-	"name": "谭咏麟 - 一生中最爱 (1991 Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E8%B0%AD%E5%92%8F%E9%BA%9F%20-%20%E4%B8%80%E7%94%9F%E4%B8%AD%E6%9C%80%E7%88%B1%20%281991%20Live%29.mp3"
+	"name": "谭咏麟 - 讲不出再见",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/谭咏麟 - 讲不出再见.mp3"
 }, {
 	"id": 134,
 	"languages": "粤语",
-	"name": "谭咏麟 - 朋友",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E8%B0%AD%E5%92%8F%E9%BA%9F%20-%20%E6%9C%8B%E5%8F%8B.mp3"
+	"name": "谭咏麟_-_讲不出再见",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/谭咏麟_-_讲不出再见.mp3"
 }, {
 	"id": 135,
-	"languages": "粤语",
-	"name": "谭咏麟 - 讲不出再见",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E8%B0%AD%E5%92%8F%E9%BA%9F%20-%20%E8%AE%B2%E4%B8%8D%E5%87%BA%E5%86%8D%E8%A7%81.mp3"
+	"languages": "日语",
+	"name": "谷村新司,アリス - 風姿花伝",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/谷村新司,アリス - 風姿花伝.mp3"
 }, {
 	"id": 136,
 	"languages": "粤语",
-	"name": "谭咏麟_-_一生中最爱",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E8%B0%AD%E5%92%8F%E9%BA%9F_-_%E4%B8%80%E7%94%9F%E4%B8%AD%E6%9C%80%E7%88%B1.mp3"
+	"name": "邰正宵 - 爱的传说",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/邰正宵 - 爱的传说.mp3"
 }, {
 	"id": 137,
 	"languages": "粤语",
-	"name": "谭咏麟_-_讲不出再见",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E8%B0%AD%E5%92%8F%E9%BA%9F_-_%E8%AE%B2%E4%B8%8D%E5%87%BA%E5%86%8D%E8%A7%81.mp3"
+	"name": "郑中基 - 无赖",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/郑中基 - 无赖.mp3"
 }, {
 	"id": 138,
-	"languages": "日语",
-	"name": "谷村新司,アリス - 風姿花伝",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E8%B0%B7%E6%9D%91%E6%96%B0%E5%8F%B8%2C%E3%82%A2%E3%83%AA%E3%82%B9%20-%20%E9%A2%A8%E5%A7%BF%E8%8A%B1%E4%BC%9D.mp3"
+	"languages": "粤语",
+	"name": "郑秀文 - 终身美丽",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/郑秀文 - 终身美丽.mp3"
 }, {
 	"id": 139,
 	"languages": "粤语",
-	"name": "邰正宵 - 爱的传说",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%82%B0%E6%AD%A3%E5%AE%B5%20-%20%E7%88%B1%E7%9A%84%E4%BC%A0%E8%AF%B4.mp3"
+	"name": "钟镇涛_-_让一切随风",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/钟镇涛_-_让一切随风.mp3"
 }, {
 	"id": 140,
 	"languages": "粤语",
-	"name": "郑中基 - 无赖",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%83%91%E4%B8%AD%E5%9F%BA%20-%20%E6%97%A0%E8%B5%96.mp3"
+	"name": "陈奕迅 - K歌之王 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - K歌之王 (Live).mp3"
 }, {
 	"id": 141,
 	"languages": "粤语",
-	"name": "郑秀文 - 终身美丽",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%83%91%E7%A7%80%E6%96%87%20-%20%E7%BB%88%E8%BA%AB%E7%BE%8E%E4%B8%BD.mp3"
+	"name": "陈奕迅 - Shall We Talk (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - Shall We Talk (Live).mp3"
 }, {
 	"id": 142,
 	"languages": "粤语",
-	"name": "钟镇涛_-_让一切随风",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%92%9F%E9%95%87%E6%B6%9B_-_%E8%AE%A9%E4%B8%80%E5%88%87%E9%9A%8F%E9%A3%8E.mp3"
+	"name": "陈奕迅 - 人来人往 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 人来人往 (Live).mp3"
 }, {
 	"id": 143,
 	"languages": "粤语",
-	"name": "陈奕迅 - K歌之王 (Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20K%E6%AD%8C%E4%B9%8B%E7%8E%8B%20%28Live%29.mp3"
+	"name": "陈奕迅 - 倾城 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 倾城 (Live).mp3"
 }, {
 	"id": 144,
 	"languages": "粤语",
-	"name": "陈奕迅 - Shall We Talk (Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20Shall%20We%20Talk%20%28Live%29.mp3"
+	"name": "陈奕迅 - 单车 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 单车 (Live).mp3"
 }, {
 	"id": 145,
 	"languages": "粤语",
-	"name": "陈奕迅 - 人来人往 (Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E4%BA%BA%E6%9D%A5%E4%BA%BA%E5%BE%80%20%28Live%29.mp3"
+	"name": "陈奕迅 - 四季",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 四季.mp3"
 }, {
 	"id": 146,
 	"languages": "粤语",
-	"name": "陈奕迅 - 倾城 (Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E5%80%BE%E5%9F%8E%20%28Live%29.mp3"
+	"name": "陈奕迅 - 富士山下",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 富士山下.mp3"
 }, {
 	"id": 147,
 	"languages": "粤语",
-	"name": "陈奕迅 - 单车 (Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E5%8D%95%E8%BD%A6%20%28Live%29.mp3"
+	"name": "陈奕迅 - 明年今日 (2007 Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 明年今日 (2007 Live).mp3"
 }, {
 	"id": 148,
 	"languages": "粤语",
-	"name": "陈奕迅 - 四季",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E5%9B%9B%E5%AD%A3.mp3"
+	"name": "陈奕迅 - 最佳损友",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 最佳损友.mp3"
 }, {
 	"id": 149,
 	"languages": "粤语",
-	"name": "陈奕迅 - 富士山下",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E5%AF%8C%E5%A3%AB%E5%B1%B1%E4%B8%8B.mp3"
+	"name": "陈奕迅 - 月黑风高",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 月黑风高.mp3"
 }, {
 	"id": 150,
 	"languages": "粤语",
-	"name": "陈奕迅 - 明年今日 (2007 Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E6%98%8E%E5%B9%B4%E4%BB%8A%E6%97%A5%20%282007%20Live%29.mp3"
+	"name": "陈奕迅 - 梦想天空分外蓝",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 梦想天空分外蓝.mp3"
 }, {
 	"id": 151,
 	"languages": "粤语",
-	"name": "陈奕迅 - 最佳损友",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E6%9C%80%E4%BD%B3%E6%8D%9F%E5%8F%8B.mp3"
+	"name": "陈奕迅 - 歌.颂(Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 歌.颂(Live).mp3"
 }, {
 	"id": 152,
 	"languages": "粤语",
-	"name": "陈奕迅 - 月黑风高",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E6%9C%88%E9%BB%91%E9%A3%8E%E9%AB%98.mp3"
+	"name": "陈奕迅 - 沙龙",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 沙龙.mp3"
 }, {
 	"id": 153,
 	"languages": "粤语",
-	"name": "陈奕迅 - 梦想天空分外蓝",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E6%A2%A6%E6%83%B3%E5%A4%A9%E7%A9%BA%E5%88%86%E5%A4%96%E8%93%9D.mp3"
+	"name": "陈奕迅 - 浮夸",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 浮夸.mp3"
 }, {
 	"id": 154,
 	"languages": "粤语",
-	"name": "陈奕迅 - 歌.颂(Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E6%AD%8C.%E9%A2%82%28Live%29.mp3"
+	"name": "陈奕迅 - 深爱着你",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 深爱着你.mp3"
 }, {
 	"id": 155,
 	"languages": "粤语",
-	"name": "陈奕迅 - 沙龙",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E6%B2%99%E9%BE%99.mp3"
+	"name": "陈奕迅 - 爱情转移",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 爱情转移.mp3"
 }, {
 	"id": 156,
 	"languages": "粤语",
-	"name": "陈奕迅 - 浮夸",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E6%B5%AE%E5%A4%B8.mp3"
+	"name": "陈奕迅 - 约定(Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 约定(Live).mp3"
 }, {
 	"id": 157,
 	"languages": "粤语",
-	"name": "陈奕迅 - 深爱着你",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E6%B7%B1%E7%88%B1%E7%9D%80%E4%BD%A0.mp3"
+	"name": "陈奕迅 - 落花流水",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 落花流水.mp3"
 }, {
 	"id": 158,
 	"languages": "粤语",
-	"name": "陈奕迅 - 爱情转移",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E7%88%B1%E6%83%85%E8%BD%AC%E7%A7%BB.mp3"
+	"name": "陈奕迅 - 葡萄成熟时",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 葡萄成熟时.mp3"
 }, {
 	"id": 159,
 	"languages": "粤语",
-	"name": "陈奕迅 - 约定(Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E7%BA%A6%E5%AE%9A%28Live%29.mp3"
+	"name": "陈奕迅 - 裙下之臣",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 裙下之臣.mp3"
 }, {
 	"id": 160,
 	"languages": "粤语",
-	"name": "陈奕迅 - 落花流水",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E8%90%BD%E8%8A%B1%E6%B5%81%E6%B0%B4.mp3"
+	"name": "陈奕迅 - 阴天快乐",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅 - 阴天快乐.mp3"
 }, {
 	"id": 161,
 	"languages": "粤语",
-	"name": "陈奕迅 - 葡萄成熟时",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E8%91%A1%E8%90%84%E6%88%90%E7%86%9F%E6%97%B6.mp3"
+	"name": "陈奕迅,张敬轩 - 追 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅,张敬轩 - 追 (Live).mp3"
 }, {
 	"id": 162,
 	"languages": "粤语",
-	"name": "陈奕迅 - 裙下之臣",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E8%A3%99%E4%B8%8B%E4%B9%8B%E8%87%A3.mp3"
+	"name": "陈小春 - 独家记忆",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈小春 - 独家记忆.mp3"
 }, {
 	"id": 163,
 	"languages": "粤语",
-	"name": "陈奕迅 - 阴天快乐",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%20-%20%E9%98%B4%E5%A4%A9%E5%BF%AB%E4%B9%90.mp3"
+	"name": "陈慧娴_-_千千阕歌",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈慧娴_-_千千阕歌.mp3"
 }, {
 	"id": 164,
 	"languages": "粤语",
-	"name": "陈奕迅,张敬轩 - 追 (Live)",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%A5%95%E8%BF%85%2C%E5%BC%A0%E6%95%AC%E8%BD%A9%20-%20%E8%BF%BD%20%28Live%29.mp3"
+	"name": "陈慧琳 - 前所未见",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈慧琳 - 前所未见.mp3"
 }, {
 	"id": 165,
 	"languages": "粤语",
-	"name": "陈小春 - 独家记忆",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E5%B0%8F%E6%98%A5%20-%20%E7%8B%AC%E5%AE%B6%E8%AE%B0%E5%BF%86.mp3"
+	"name": "陈柏宇 - 你瞒我瞒",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈柏宇 - 你瞒我瞒.mp3"
 }, {
 	"id": 166,
 	"languages": "粤语",
-	"name": "陈慧娴_-_千千阕歌",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E6%85%A7%E5%A8%B4_-_%E5%8D%83%E5%8D%83%E9%98%95%E6%AD%8C.mp3"
+	"name": "陈百强 - 一生何求",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈百强 - 一生何求.mp3"
 }, {
 	"id": 167,
 	"languages": "粤语",
-	"name": "陈慧琳 - 前所未见",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E6%85%A7%E7%90%B3%20-%20%E5%89%8D%E6%89%80%E6%9C%AA%E8%A7%81.mp3"
+	"name": "陈百强 - 偏偏喜欢你",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈百强 - 偏偏喜欢你.mp3"
 }, {
 	"id": 168,
 	"languages": "粤语",
-	"name": "陈柏宇 - 你瞒我瞒",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E6%9F%8F%E5%AE%87%20-%20%E4%BD%A0%E7%9E%92%E6%88%91%E7%9E%92.mp3"
+	"name": "麦浚龙 - 耿耿于怀",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/麦浚龙 - 耿耿于怀.mp3"
 }, {
 	"id": 169,
 	"languages": "粤语",
-	"name": "陈百强 - 一生何求",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E7%99%BE%E5%BC%BA%20-%20%E4%B8%80%E7%94%9F%E4%BD%95%E6%B1%82.mp3"
+	"name": "麦浚龙,谢安琪 - 罗生门",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/麦浚龙,谢安琪 - 罗生门.mp3"
 }, {
 	"id": 170,
 	"languages": "粤语",
-	"name": "陈百强 - 偏偏喜欢你",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%99%88%E7%99%BE%E5%BC%BA%20-%20%E5%81%8F%E5%81%8F%E5%96%9C%E6%AC%A2%E4%BD%A0.mp3"
+	"name": "黄凯芹_-_雨中的恋人们",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/黄凯芹_-_雨中的恋人们.mp3"
 }, {
 	"id": 171,
 	"languages": "粤语",
-	"name": "麦浚龙 - 耿耿于怀",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%BA%A6%E6%B5%9A%E9%BE%99%20-%20%E8%80%BF%E8%80%BF%E4%BA%8E%E6%80%80.mp3"
+	"name": "黎姿 - 你是明日意义",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/黎姿 - 你是明日意义.mp3"
 }, {
 	"id": 172,
 	"languages": "粤语",
-	"name": "麦浚龙,谢安琪 - 罗生门",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%BA%A6%E6%B5%9A%E9%BE%99%2C%E8%B0%A2%E5%AE%89%E7%90%AA%20-%20%E7%BD%97%E7%94%9F%E9%97%A8.mp3"
+	"name": "黎瑞恩 - 一人有一个梦想",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/黎瑞恩 - 一人有一个梦想.mp3"
 }, {
 	"id": 173,
-	"languages": "粤语",
-	"name": "黄凯芹_-_雨中的恋人们",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%BB%84%E5%87%AF%E8%8A%B9_-_%E9%9B%A8%E4%B8%AD%E7%9A%84%E6%81%8B%E4%BA%BA%E4%BB%AC.mp3"
+	"languages": "国语",
+	"name": "伍佰 & China Blue - Last Dance",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/伍佰 & China Blue - Last Dance.mp3"
 }, {
 	"id": 174,
-	"languages": "粤语",
-	"name": "黎姿 - 你是明日意义",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%BB%8E%E5%A7%BF%20-%20%E4%BD%A0%E6%98%AF%E6%98%8E%E6%97%A5%E6%84%8F%E4%B9%89.mp3"
+	"languages": "国语",
+	"name": "八三夭 - 想见你想见你想见你",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/八三夭 - 想见你想见你想见你.mp3"
 }, {
 	"id": 175,
-	"languages": "粤语",
-	"name": "黎瑞恩 - 一人有一个梦想",
-	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/%E9%BB%8E%E7%91%9E%E6%81%A9%20-%20%E4%B8%80%E4%BA%BA%E6%9C%89%E4%B8%80%E4%B8%AA%E6%A2%A6%E6%83%B3.mp3"
+	"languages": "国语",
+	"name": "刘德华 - 笨小孩 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/刘德华 - 笨小孩 (Live).mp3"
+}, {
+	"id": 176,
+	"languages": "国语",
+	"name": "古巨基 - 匆匆那年 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/古巨基 - 匆匆那年 (Live).mp3"
+}, {
+	"id": 177,
+	"languages": "国语",
+	"name": "张杰 - My Sunshine",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - My Sunshine.mp3"
+}, {
+	"id": 178,
+	"languages": "国语",
+	"name": "张杰 - 一切都值得",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 一切都值得.mp3"
+}, {
+	"id": 179,
+	"languages": "国语",
+	"name": "张杰 - 云中的Angel",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 云中的Angel.mp3"
+}, {
+	"id": 180,
+	"languages": "国语",
+	"name": "张杰 - 他不懂",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 他不懂.mp3"
+}, {
+	"id": 181,
+	"languages": "国语",
+	"name": "张杰 - 何必在一起",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 何必在一起.mp3"
+}, {
+	"id": 182,
+	"languages": "国语",
+	"name": "张杰 - 你就不要想起我 (live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 你就不要想起我 (live).mp3"
+}, {
+	"id": 183,
+	"languages": "国语",
+	"name": "张杰 - 剑心",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 剑心.mp3"
+}, {
+	"id": 184,
+	"languages": "国语",
+	"name": "张杰 - 勿忘心安",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 勿忘心安.mp3"
+}, {
+	"id": 185,
+	"languages": "国语",
+	"name": "张杰 - 原来你什么都不要",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 原来你什么都不要.mp3"
+}, {
+	"id": 186,
+	"languages": "国语",
+	"name": "张杰 - 因为爱情来得不容易",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 因为爱情来得不容易.mp3"
+}, {
+	"id": 187,
+	"languages": "国语",
+	"name": "张杰 - 夜盲症",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 夜盲症.mp3"
+}, {
+	"id": 188,
+	"languages": "国语",
+	"name": "张杰 - 夜空中最亮的星 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 夜空中最亮的星 (Live).mp3"
+}, {
+	"id": 189,
+	"languages": "国语",
+	"name": "张杰 - 好想大声说爱你 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 好想大声说爱你 (Live).mp3"
+}, {
+	"id": 190,
+	"languages": "国语",
+	"name": "张杰 - 很奇怪我爱你",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 很奇怪我爱你.mp3"
+}, {
+	"id": 191,
+	"languages": "国语",
+	"name": "张杰 - 我们都一样",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 我们都一样.mp3"
+}, {
+	"id": 192,
+	"languages": "国语",
+	"name": "张杰 - 明天过后",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 明天过后.mp3"
+}, {
+	"id": 193,
+	"languages": "国语",
+	"name": "张杰 - 最悲歌",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 最悲歌.mp3"
+}, {
+	"id": 194,
+	"languages": "国语",
+	"name": "张杰 - 最美的太阳",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 最美的太阳.mp3"
+}, {
+	"id": 195,
+	"languages": "国语",
+	"name": "张杰 - 看月亮爬上来",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 看月亮爬上来.mp3"
+}, {
+	"id": 196,
+	"languages": "国语",
+	"name": "张杰 - 秋天的童话",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 秋天的童话.mp3"
+}, {
+	"id": 197,
+	"languages": "国语",
+	"name": "张杰 - 第一夫人",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 第一夫人.mp3"
+}, {
+	"id": 198,
+	"languages": "国语",
+	"name": "张杰 - 老婆",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 老婆.mp3"
+}, {
+	"id": 199,
+	"languages": "国语",
+	"name": "张杰 - 花手绢",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 花手绢.mp3"
+}, {
+	"id": 200,
+	"languages": "国语",
+	"name": "张杰 - 过云雨 (国)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 过云雨 (国).mp3"
+}, {
+	"id": 201,
+	"languages": "国语",
+	"name": "张杰 - 这，就是爱",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 这，就是爱.mp3"
+}, {
+	"id": 202,
+	"languages": "国语",
+	"name": "张杰 - 量身订做",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张杰 - 量身订做.mp3"
+}, {
+	"id": 203,
+	"languages": "国语",
+	"name": "朴树 - 清白之年 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/朴树 - 清白之年 (Live).mp3"
+}, {
+	"id": 204,
+	"languages": "国语",
+	"name": "林俊杰 - 修炼爱情",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林俊杰 - 修炼爱情.mp3"
+}, {
+	"id": 205,
+	"languages": "国语",
+	"name": "林俊杰 - 可惜没如果",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林俊杰 - 可惜没如果.mp3"
+}, {
+	"id": 206,
+	"languages": "国语",
+	"name": "林俊杰 - 小酒窝",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林俊杰 - 小酒窝.mp3"
+}, {
+	"id": 207,
+	"languages": "国语",
+	"name": "林俊杰 - 我还想她",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林俊杰 - 我还想她.mp3"
+}, {
+	"id": 208,
+	"languages": "国语",
+	"name": "林俊杰 - 江南",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林俊杰 - 江南.mp3"
+}, {
+	"id": 209,
+	"languages": "国语",
+	"name": "林俊杰 - 爱要怎么说出口 (Live)",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林俊杰 - 爱要怎么说出口 (Live).mp3"
+}, {
+	"id": 210,
+	"languages": "国语",
+	"name": "林俊杰 - 背对背拥抱",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林俊杰 - 背对背拥抱.mp3"
+}, {
+	"id": 211,
+	"languages": "国语",
+	"name": "林俊杰 - 那些你很冒险的梦",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林俊杰 - 那些你很冒险的梦.mp3"
+}, {
+	"id": 212,
+	"languages": "国语",
+	"name": "莫文蔚 - 慢慢喜欢你",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/莫文蔚 - 慢慢喜欢你.mp3"
+}, {
+	"id": 213,
+	"languages": "国语",
+	"name": "费玉清 - 一剪梅",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/费玉清 - 一剪梅.mp3"
+}, {
+	"id": 214,
+	"languages": "国语",
+	"name": "费玉清 - 千里之外",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/费玉清 - 千里之外.mp3"
+}, {
+	"id": 215,
+	"languages": "国语",
+	"name": "费玉清 - 南屏晚钟",
+	"url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/费玉清 - 南屏晚钟.mp3"
 }]
