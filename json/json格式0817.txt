@@ -1,0 +1,307 @@
+[
+    {
+        "classification": "国语",
+        "name": "任贤齐,杨千嬅_-_花好月圆夜",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/任贤齐,杨千嬅_-_花好月圆夜.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "任贤齐_-_任逍遥",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/任贤齐_-_任逍遥.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "任贤齐_-_伤心太平洋",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/任贤齐_-_伤心太平洋.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "任贤齐_-_对面的女孩看过来",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/任贤齐_-_对面的女孩看过来.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "任贤齐_-_心太软",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/任贤齐_-_心太软.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "任贤齐_-_我是一只鱼",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/任贤齐_-_我是一只鱼.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "任贤齐_-_死不了",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/任贤齐_-_死不了.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "凤飞飞_-_追梦人",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/凤飞飞_-_追梦人.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "刀郎_-_西海情歌",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/刀郎_-_西海情歌.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "刘德华 - 中国人(Live)",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/刘德华 - 中国人(Live).mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "刘欢_-_好汉歌",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/刘欢_-_好汉歌.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "刘若英_-_为爱痴狂",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/刘若英_-_为爱痴狂.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "叶蒨文_-_潇洒走一回",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/叶蒨文_-_潇洒走一回.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "吴奇隆_-_祝你一路顺风",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/吴奇隆_-_祝你一路顺风.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "周华健_-_花心",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/周华健_-_花心.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "张信哲 - 过火",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张信哲 - 过火.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "张信哲_-_爱如潮水",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张信哲_-_爱如潮水.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "张学友_-_一千个伤心的理由",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张学友_-_一千个伤心的理由.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "张学友_-_一路上有你",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张学友_-_一路上有你.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "张学友_-_只想一生跟你走",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张学友_-_只想一生跟你走.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "张学友_-_吻别",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张学友_-_吻别.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "张学友_-_她来听我的演唱会",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张学友_-_她来听我的演唱会.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "张宇_-_单恋一枝花",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张宇_-_单恋一枝花.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "张宇_-_月亮惹的祸",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张宇_-_月亮惹的祸.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "张宇_-_用心良苦",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张宇_-_用心良苦.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "张宇_-_趁早",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张宇_-_趁早.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "张惠妹 - 听海(live版)",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张惠妹 - 听海(live版).mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "张雨生_-_大海",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/张雨生_-_大海.mp3"
+    },
+    {
+        "classification": "粤语",
+        "name": "李克勤_-_红日",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/李克勤_-_红日.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "李宗盛_-_飘洋过海来看你_(Live)",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/李宗盛_-_飘洋过海来看你_(Live).mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "李翊君_-_雨蝶",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/李翊君_-_雨蝶.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "林忆莲_-_为你我受冷风吹",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林忆莲_-_为你我受冷风吹.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "林志炫_-_你的样子",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林志炫_-_你的样子.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "林志颖_-_十七岁的雨季",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/林志颖_-_十七岁的雨季.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "王强_-_秋天不回来",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/王强_-_秋天不回来.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "王菲_-_人间",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/王菲_-_人间.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "王菲_-_传奇",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/王菲_-_传奇.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "王菲_-_匆匆那年",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/王菲_-_匆匆那年.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "王菲_-_爱与痛的边缘",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/王菲_-_爱与痛的边缘.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "王菲_-_红豆",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/王菲_-_红豆.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "老狼_-_同桌的你",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/老狼_-_同桌的你.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "胡夏_-_同桌的你",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/胡夏_-_同桌的你.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "胡彦斌_-_为你我受冷风吹",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/胡彦斌_-_为你我受冷风吹.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "草蜢_-_失恋阵线联盟",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/草蜢_-_失恋阵线联盟.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "许慧欣_-_七月七日晴",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/许慧欣_-_七月七日晴.mp3"
+    },
+    {
+        "classification": "粤语",
+        "name": "谭咏麟_-_再见亦是泪",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/谭咏麟_-_再见亦是泪.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "费玉清_-_涛声依旧",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/费玉清_-_涛声依旧.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "赵咏华_-_最浪漫的事",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/赵咏华_-_最浪漫的事.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "辛晓琪_-_领悟",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/辛晓琪_-_领悟.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "迪克牛仔_-_有多少爱可以重来",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/迪克牛仔_-_有多少爱可以重来.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "郑智化_-_星星点灯",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/郑智化_-_星星点灯.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "郑智化_-_水手",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/郑智化_-_水手.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "陈奕迅,王菲_-_因为爱情",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈奕迅,王菲_-_因为爱情.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "陈慧琳_-_记事本",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈慧琳_-_记事本.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "陈淑桦_-_梦醒时分",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈淑桦_-_梦醒时分.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "陈淑桦_-_笑红尘",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈淑桦_-_笑红尘.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "陈陈_-_求佛",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陈陈_-_求佛.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "陶喆_-_爱，很简单",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/陶喆_-_爱，很简单.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "高胜美_-_千年等一回",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/高胜美_-_千年等一回.mp3"
+    },
+    {
+        "classification": "粤语",
+        "name": "黄丽玲_-_天若有情",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/黄丽玲_-_天若有情.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "黄安_-_新鸳鸯蝴蝶梦",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/黄安_-_新鸳鸯蝴蝶梦.mp3"
+    }
+]
