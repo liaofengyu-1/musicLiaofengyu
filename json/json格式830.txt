@@ -1,0 +1,47 @@
+[
+    {
+        "classification": "英语",
+        "name": "Against the Current - Legends Never Die",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Against the Current - Legends Never Die.mp3"
+    },
+    {
+        "classification": "国语",
+        "name": "Beyoncé - If I Were a Boy",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Beyoncé - If I Were a Boy.mp3"
+    },
+    {
+        "classification": "英语",
+        "name": "gnash,Olivia O'Brien - I Hate U, I Love U",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/gnash,Olivia O'Brien - I Hate U, I Love U.mp3"
+    },
+    {
+        "classification": "英语",
+        "name": "Groove Coverage - God is A Girl",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Groove Coverage - God is A Girl.mp3"
+    },
+    {
+        "classification": "英语",
+        "name": "Kelly Clarkson - Because of You",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Kelly Clarkson - Because of You.mp3"
+    },
+    {
+        "classification": "英语",
+        "name": "Matisyahu - One Day",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Matisyahu - One Day.mp3"
+    },
+    {
+        "classification": "英语",
+        "name": "ThimLife - League of Legends Epic Dubstep(LOL Remix)",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/ThimLife - League of Legends Epic Dubstep(LOL Remix).mp3"
+    },
+    {
+        "classification": "英语",
+        "name": "Walk off the Earth - Summer Vibe",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Walk off the Earth - Summer Vibe.mp3"
+    },
+    {
+        "classification": "英语",
+        "name": "Westlife - My Love (Radio Edit)",
+        "url": "https://github.com/liaofengyu-1/musicFromLiaofengyu/blob/master/Westlife - My Love (Radio Edit).mp3"
+    }
+]
